@@ -1,0 +1,10 @@
+use std/stdio
+task kringe
+print "HI"
+print "Hello?"
+endtask
+task second
+print "hi"
+endtask
+dotask second
+dotask kringe
