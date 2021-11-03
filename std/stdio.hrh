@@ -1,0 +1,2 @@
+al print write 1 $ +n
+al ask read 0 +prompt $

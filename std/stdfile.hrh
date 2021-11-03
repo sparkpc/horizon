@@ -1,0 +1,1 @@
+al fprint open r _fpvar_ $ > writev 0
